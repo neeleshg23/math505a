@@ -2,4 +2,6 @@
 
 Professor: Remigijus Mikulevicius
 
-`hw` folder contains my submitted homeworks which contain errors. 
+`hw` folder contains my submitted homeworks which contain some errors.
+
+`homework` contains two documents with the entirety of the questions assigned as well as the entire solution set. 
